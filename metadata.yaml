@@ -1,0 +1,27 @@
+_repo: Scribner-s-Magazine-Volume-26-July-1899_41871
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: Scribner's Magazine
+gutenberg_issued: '2013-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41871'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcc 'AP'
+- !lcsh 'American periodicals'
+title: Scribner's Magazine, Volume 26, July 1899
+url: http://www.gutenberg.org/ebooks/41871
